@@ -14,5 +14,5 @@ Following are the files included in the submission :
 ```
 • proposal.pdf
 • report.pdf
-• MyCapstone_1_3 (3).ipynb
+• MyCapstone_1_3(3).ipynb
 ```
