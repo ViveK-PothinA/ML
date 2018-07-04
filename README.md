@@ -12,7 +12,7 @@ Using reinforcement techniques like Markov's Decision Process and Q-learning, wr
 * Python3
 * Pygame
 #### How to run it?
-Navigate to [./smartcab]
+Navigate to [smartcab/]
 ```
 python .\smartcab\agent.py
 ```
