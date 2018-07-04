@@ -40,5 +40,5 @@ I used [Keras](https://keras.io/) to build my CNN model. My model achieved an ac
 * Matplotlib
 * Pandas
 
-Take a look at the [notebook](./capstone/MyCapstone_1_3\ \(3\)\.ipynb) for more info!
+Take a look at the [notebook](./capstone/MyCapstone_1_3\(3\)\.ipynb) for more info!
 
