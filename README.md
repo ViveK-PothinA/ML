@@ -25,7 +25,7 @@ Using [Tensorflow framework](https://github.com/tensorflow/tensorflow), built a 
 * cv2 (OpenCV)
 * Matplotlib
 
-Take a look at the [notebook](./image-classification/image-classification.ipynb) for more info!
+Take a look at the [notebook](./image-classification/image_classification.ipynb) for more info!
 
 ### capstone : Capstone Project : CNN on Kaggle's Understanding Amazon from Space
 [Understanding Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/) is a competition on Kaggle. It is multi-label classification.
